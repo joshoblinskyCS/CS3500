@@ -9,7 +9,7 @@ namespace Tip_Calculator
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.mPEAESkaOFPkpo
+        /// The main entry point for the application. Change commit
         /// </summary>
         [STAThread]
         static void Main()
