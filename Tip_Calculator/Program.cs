@@ -9,7 +9,7 @@ namespace Tip_Calculator
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry point for the application.mPEAESkaOFPkpo
         /// </summary>
         [STAThread]
         static void Main()
